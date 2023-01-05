@@ -1,4 +1,4 @@
-![progress-banner](https://codecrafters.io/landing/images/default_progress_banners/redis.png)
+![progress-banner](https://app.codecrafters.io/progress/redis/76fffe80-d5cb-4c29-bd2d-9d3c32f60fee)
 
 This is a starting point for Haskell solutions to the
 ["Build Your Own Redis" Challenge](https://codecrafters.io/challenges/redis).
